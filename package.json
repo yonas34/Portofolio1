@@ -1,0 +1,30 @@
+{
+  "name": "ilykin",
+  "version": "0.0.0",
+  "description": "hello world starter",
+  "keywords": [
+    "react",
+    "material"
+  ],
+  "homepage": "https://codesandbox.io/s/4j7m47vlm4",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "parallax": "0.0.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-parallax": "3.3.0",
+    "react-typist": "2.0.5",
+    "react-typist-loop": "1.0.0",
+    "unsplash-react": "0.2.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
